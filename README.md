@@ -20,7 +20,7 @@ This script allows you to connect to different VPNs using various methods such a
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/smasoudrezvani/multi-vpn-manager.git
-   cd your-repo-name
+   cd multi-vpn-manager
 2. **Make the script executable**:
    ```bash
    chmod +x connect_vpn.sh
